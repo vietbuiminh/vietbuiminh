@@ -1,5 +1,3 @@
-### Hi there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
-=======
 ### Hi there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="40px">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vietbuiminh&layout=compact&hide_border=true)
