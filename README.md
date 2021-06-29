@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="40px">
 *some info about me*
-- ⚡ Fun fact: Computer Art is my passion, you can check out my [Site](https://sites.google.com/augustana.edu/vietb)
+- ⚡ Fun fact: Computer Art is my passion, you can check out my [Site](vietbui.xyz)
 - 📫 How to reach me: [Gmail](mailto:vietbui20@augustana.edu)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vietbuiminh&layout=compact&hide_border=true)
