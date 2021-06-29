@@ -3,11 +3,6 @@
 - ⚡ Fun fact: Computer Art is my passion, you can check out my [Site](https://www.vietbui.xyz/)
 - 📫 How to reach me: [Gmail](mailto:vietbui20@augustana.edu)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vietbuiminh&layout=compact&hide_border=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vietbuiminh&hide_border=true)
-.
-
 
 <!--
 **vietbuiminh/vietbuiminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
